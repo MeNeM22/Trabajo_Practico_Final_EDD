@@ -70,5 +70,27 @@ Todo desde la terminal.
 
 ---
 
-## 📁 Estructura del Repositorio
+## 🧰 Tecnologías Utilizadas
+
+- Python  
+- requests  
+- BeautifulSoup4  
+- feedparser  
+- csv  
+- pandas  
+
+---
+
+## 📘 Informe
+
+Incluye análisis de:
+
+- Técnicas utilizadas (APIs, scraping, RSS)  
+- Diseño y modularización  
+- Estructuras de datos  
+- Manejo de errores  
+- CSV generados  
+- Conclusiones y aprendizajes  
+
+
 
